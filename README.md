@@ -13,7 +13,7 @@ The mirror is a katana layout stacked acrylic keyboard with some fancy accent pe
 Shrimptana uses a 8 layer stacked acrylic case with a bottom mount/Gasket mount plate
 The case uses m3 spacers and screws and the plate uses m2 / 20mm amd 10mm gaskets
 
-![alt text](https://github.com/ShrimpedKeyboard/Shrimptana/blob/main/Gallery/Renders/Case%201.png?raw=true)
+![alt text](https://github.com/ShrimpedKeyboard/Mirror40/blob/main/Pictures/Case%201.png?raw=true)
 
 
  --- 
