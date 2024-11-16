@@ -5,7 +5,7 @@
 
 The mirror is a katana layout stacked acrylic keyboard with some fancy accent peices and windows
 
-![alt text](https://github.com/ShrimpedKeyboard/Shrimptana/blob/main/Misc/KLE.png?raw=true)
+![alt text](https://github.com/ShrimpedKeyboard/Mirror40/blob/main/KLE/Mirror40.png?raw=true)
  --- 
 
 ## Case
