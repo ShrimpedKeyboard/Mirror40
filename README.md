@@ -25,6 +25,9 @@ A hotswap pro micro pcb with through hole diodes and the option for wireless
  --- 
 
 ## Misc
+
+Will open source/sell once ive confirmed it actually works 
+
 I plan to sell this board instock in the future once my storefront is at 
 this board is untested at the momment i do not recomend producing it 
 DM xshrimped on discord if you have any questions
